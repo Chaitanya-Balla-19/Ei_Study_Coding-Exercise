@@ -6,9 +6,11 @@ The project is organized into two main exercises:
 Behavioral Design Patterns
 1. Mediator Pattern for Multiplayer Game Lobby
 2. Strategy Pattern for Payment Processing System
+
 Creational Design Patterns
 1. Notification System using Factory Pattern
 2. Thread Pool for Task Processing
+
 Structural Design Patterns
 1. Adapter Pattern for Different File Format Readers
 2. Decorator Pattern for Streaming Service Subscription Customization

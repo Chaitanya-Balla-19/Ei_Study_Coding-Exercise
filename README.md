@@ -24,11 +24,17 @@ Factory Pattern: Creates tasks via the TaskFactory to simplify task creation.
 Observer Pattern: Observers (users) are notified of task conflicts and task additions, removals, or updates.
 # Files:
 AstronautScheduleOrganizer.java
+
 ScheduleManager.java
+
 Task.java
+
 TaskFactory.java
+
 TaskObserver.java
+
 User.java
+
 Validator.java
 # Description:
 This system manages the daily tasks of astronauts, ensuring that no two tasks overlap. It uses the Observer Pattern to notify users (astronauts) about task conflicts or updates. The Factory Pattern is used to create tasks, and the Singleton Pattern ensures only one schedule manager is responsible for all the astronaut's tasks.
